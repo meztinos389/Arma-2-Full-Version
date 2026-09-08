@@ -241,4 +241,4 @@ This repository serves as the official landing page for ArmA 2. The software is 
 **Get the most recent version of ArmA 2 today!**
 
 ---
-**Last updated:** 2026-09-08 10:40:53 UTC
+**Last updated:** 2026-09-08 14:54:55 UTC
